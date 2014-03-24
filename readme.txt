@@ -1,5 +1,5 @@
-=== Remove  Open Sans font Link from WP core ===
-Contributors: Suifengtec
+﻿=== Remove  Open Sans font Link from WP core ===
+Contributors: suifengtec
 Donate link:http://suoling.net/remove-open-sans-font-from-wp-core/
 Tags: open sans, google fonts
 Requires at least: 3.3
