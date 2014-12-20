@@ -4,17 +4,17 @@ Donate link:http://suoling.net/remove-open-sans-font-from-wp-core/
 Tags: open sans,noto sans,noto serif,inconsolata font, google fonts
 Requires at least: 3.3
 Tested up to: 4.1
-Stable tag: 1.2.0
+Stable tag: 1.2.1
 License:GPLv2 or later
 
-Installs Remove  Open Sans font Link from WP core plugin on your wordpress blog so it will doesn't load Open Sans font from Google fonts.
+Remove Google fonts link from WP core and default themes:twentyfourteen and twentyfifteen.
 
 == Description ==
 
-Installs 'Remove  Open Sans font Link from WP core' plugin on your wordpress blog, so it will doesn't load Open Sans font from Google fonts.
+Remove Google fonts link from WP core and default themes:twentyfourteen and twentyfifteen.
 
 * Remove  Open Sans font Link from WP core
-* Remove  Open Sans font Link from the WP default theme `twentyfourteen`.
+* Remove  Lato font Link from the WP default theme `twentyfourteen`.
 * Remove  Noto Sans font link,Noto Serif font link,Inconsolata font link from the WP default theme `twentyfifteen`.
 * Remove  Noto Serif font link,Inconsolata font link from the WP default theme `twentyfifteen`.
 * Remove  Inconsolata font link from the WP default theme `twentyfifteen`.
@@ -41,6 +41,7 @@ Drop me a line:http://suoling.net/remove-open-sans-font-from-wp-core/
 * 1.0.0 Initial release.
 * 1.1.0 works fine with `twentyfourteen`.
 * 1.2.0 works fine with `twentyfifteen` and `twentyfourteen`.
+* 1.2.1 fix a bug.
 
 == ChangeLog ==
 
@@ -55,7 +56,8 @@ Drop me a line:http://suoling.net/remove-open-sans-font-from-wp-core/
 * Remove  Noto Sans font link,Noto Serif font link,Inconsolata font link from the WP default theme `twentyfifteen`.
 * Remove  Noto Serif font link,Inconsolata font link from the WP default theme `twentyfifteen`.
 * Remove  Inconsolata font link from the WP default theme `twentyfifteen`.
-
+= 1.2.1 =
+*fix a bug.
 == Screenshots ==
 
 I think this plugin doesn't need UI!
